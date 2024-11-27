@@ -1,0 +1,8 @@
+This repository was automagically generated for testing purposes.
+It contains 3 branches.
+Each branch contains 9 files and 10 commits.
+In the first commit 2 were added to every file,
+afterwards the following changes were made:
+- files 1 through 3 (included) had 2 lines added every commit
+- files 4 through 6 (included) had 1 line deleted and 2 added every commit
+- file 7 through 9 (included) had 2 added every even commit and 1 deleted every odd commit
